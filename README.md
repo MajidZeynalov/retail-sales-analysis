@@ -1,4 +1,4 @@
-E-Commerce Sales Data Analysis
+📊 E-Commerce Sales Data Analysis
 
 Comprehensive sales data analysis project covering data cleaning, transformation, statistical analysis, and business intelligence dashboards for an e-commerce platform.
 
@@ -168,6 +168,9 @@ Data Enhancement
 Implement real-time dashboard updates
 Add predictive analytics for demand forecasting
 Develop customer lifetime value models
+📞 Contact & Support
+
+For questions or insights about this analysis, please refer to the data quality notes in the düzəlişlər sheet.
 
 📄 License
 
